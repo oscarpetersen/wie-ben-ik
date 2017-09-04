@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+h1{
+font size:35px;
+color: white;
+background-color: black;
+}
+
+h2{
+margin-top: 10px;
+font size:35px;
+color: black;
+}
+
+body{
+  text-align: center;
+  background-image: url("221.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+ul{
+  list-style-type: none;
+}
+
+img{
+  width: 200px;
+  height: 150px;
+  margin: 5px;
+}
+
+p{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
